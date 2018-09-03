@@ -1,4 +1,4 @@
-//C program to find revee of a no.
+//C program to find reverse of a no.
 #include <iostream>
 using namespace std;
 
